@@ -4,9 +4,4 @@
 	"title"		"Freeze Tag"
 	"maps"		"^ft_"
 	"menusystem"	"1"
-
-	"settings"
-	{
-		// TODO: put some settings here
-	}
 }
